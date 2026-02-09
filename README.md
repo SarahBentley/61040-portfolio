@@ -1,16 +1,7 @@
-# Template Portfolio
-This will be your portfolio repository. Use this as a [template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) and customize it to your own tastes. We gave you a starting point with a space to describe yourself and a link to where your assignment 1 file can be.
-
 # About Me
-*My name is Amber Horvath, I'm a postdoctoral associate researching code comprehension interventions, it's nice to meet you! [Here is a link to my real website.](https://amberhorvath.com)
-Now you should write something about yourself here!*
+I'm Sarah Bentley, a first year PhD student here at MIT. My research is focused on applying concepts in theoretical computer science to build human + machine learning systems that discover new algorithms. [Here is a link to my real website](https://sarahbentley.github.io/sarahbentley/) and below is a picture of me presenting a poster recently!
 
-Some fun facts about me:
-1. I love hockey.
-2. I do pottery.
-3. I have an extra bone in my right foot.
-
-![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096)
+![picture of me presenting](assets/presentation_photo.jpeg)
 
 
 # Table of Contents
