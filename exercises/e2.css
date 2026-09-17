@@ -1,0 +1,32 @@
+body {
+    font-family: "Courier New", Courier, monospace;
+    background-color: pink;
+}
+h1 {
+    color: #c2185b; /* deep pink */
+}
+p {
+    color: #e91e63; /* medium pink */
+}
+a {
+    color: #f48fb1; /* light pink */
+}
+button {
+    color: #ad1457; /* dark pink text on the button */
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #f48fb1;
+    cursor: pointer;
+}
+
+img {
+    width: 800px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+    display: block;
+    margin: 20px 0;
+}
